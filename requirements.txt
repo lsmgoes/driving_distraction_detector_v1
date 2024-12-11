@@ -1,4 +1,6 @@
 opencv-python
 mediapipe
 ultralytics
-tensorflow
+pytest
+unittest
+unittest.mock
