@@ -1,6 +1,4 @@
-opencv-python
-mediapipe
-ultralytics
-pytest
-unittest
-unittest.mock
+opencv-python==4.10.0.84
+mediapipe==0.10.18
+ultralytics==8.3.49
+pytest==8.3.4
