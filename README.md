@@ -2,7 +2,7 @@
 
 ### Sistema baseado em YOLOv8 e Google MediaPipe para monitoramento de distrações ao volante em tempo real.
 
-<img src="images/sistema.png" width="550">
+
 
 ## 📖 Sobre o Projeto
 
@@ -27,7 +27,7 @@ A abordagem metodológica inclui o uso de modelos pré-treinados, que são redes
 A solução foi desenvolvida integrando duas tecnologias de Inteligência Artificial:
 
 - **YOLOv8** para detecção do telefone celular;
-- **Google MediaPipe** para monitoramento da região dos olhos e identificação de sinais de sonolência.
+- **MediaPipe** para monitoramento da região dos olhos e identificação de sinais de sonolência.
 
 
 ---
@@ -61,7 +61,7 @@ A avaliação considerou:
 - Execução em CPU;
 - Execução em GPU.
 
-Os experimentos permitiram identificar as combinações que apresentaram melhor equilíbrio entre precisão e velocidade para aplicações em tempo real.
+Os resultados experimentais demonstraram que o modelo YOLOv8m alcançou um mAP@50 de 0,50, atingindo 20,5 FPS em GPU e 5 FPS em CPU.
 
 ---
 
