@@ -1,4 +1,4 @@
-# 🚛 Monitoramento do Estado de Alerta do Motorista V1
+# 🚛 Monitoramento do Estado de Alerta do Motorista - V1
 
 ### Sistema baseado em YOLOv8 e Google MediaPipe para monitoramento de distrações ao volante em tempo real.
 
