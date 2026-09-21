@@ -1,10 +1,10 @@
-# 🚛 Monitoramento do Estado de Alerta do Motorista - V1
+# Monitoramento do Estado de Alerta do Motorista - V1
 
 ### Sistema baseado em YOLOv8 e Google MediaPipe para monitoramento de distrações ao volante em tempo real.
 
 
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 A distração ao volante está entre as principais causas de acidentes de trânsito, especialmente no transporte de cargas, onde longas jornadas aumentam a ocorrência de fadiga e sonolência.
 
@@ -14,13 +14,13 @@ A proposta integra os modelos **YOLOv8** e **Google MediaPipe Face Mesh** em uma
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Desenvolver um sistema capaz de monitorar o estado de alerta do motorista por meio de técnicas de Visão Computacional, identificando automaticamente distrações relacionadas ao uso do celular e à sonolência, contribuindo para aumentar a segurança durante a condução.
 
 ---
 
-# 🧠 Metodologia
+# Metodologia
 
 A abordagem metodológica inclui o uso de modelos pré-treinados, que são redes neurais já treinadas em grandes conjuntos de dados.
 
@@ -32,7 +32,7 @@ A solução foi desenvolvida integrando duas tecnologias de Inteligência Artifi
 
 ---
 
-# ✨ Diferenciais da Abordagem
+# Diferenciais da Abordagem
 
 Diferentemente de abordagens baseadas no treinamento de modelos do zero, este trabalho adotou a utilização de **modelos pré-treinados**, estratégia amplamente utilizada em aplicações de Visão Computacional devido às seguintes vantagens:
 
@@ -50,7 +50,7 @@ Além disso, enquanto diversos trabalhos relacionados concentram-se apenas na id
 
 ---
 
-# 📊 Avaliação
+# Avaliação
 
 Foram avaliadas diferentes combinações entre os modelos do YOLOv8 (Nano, Small, Medium, Large e Extra Large) juntamente com o MediaPipe Face Mesh.
 
@@ -65,7 +65,7 @@ Os resultados experimentais demonstraram que o modelo YOLOv8m alcançou um mAP@5
 
 ---
 
-# 🚗 Funcionamento
+# Funcionamento
 
 O sistema executa continuamente o seguinte fluxo de processamento:
 
@@ -89,7 +89,7 @@ O sistema executa continuamente o seguinte fluxo de processamento:
 
 ---
 
-# 📊 Principais Contribuições
+# Principais Contribuições
 
 - Integração entre YOLOv8 e Google MediaPipe Face Mesh.
 - Monitoramento simultâneo do uso do telefone celular e da sonolência.
@@ -100,7 +100,7 @@ O sistema executa continuamente o seguinte fluxo de processamento:
 
 ---
 
-# 💻 Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - Python
 - OpenCV
@@ -111,7 +111,7 @@ O sistema executa continuamente o seguinte fluxo de processamento:
 
 ---
 
-# 🚛 Aplicações
+# Aplicações
 
 A solução pode ser utilizada em diferentes cenários, tais como:
 
@@ -123,7 +123,7 @@ A solução pode ser utilizada em diferentes cenários, tais como:
 
 ---
 
-# 📁 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 Driver-Alert-Monitoring/
